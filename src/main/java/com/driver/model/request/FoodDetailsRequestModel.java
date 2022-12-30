@@ -1,5 +1,5 @@
 package com.driver.model.request;
-
+//trial
 public class FoodDetailsRequestModel {
 
 	private String foodName;
